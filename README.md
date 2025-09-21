@@ -9,13 +9,13 @@
 <body>
     <header>
         <h1>Ananya Kulshrestha</h1>
-        <p>Future Web Developer | Student</p>
+        <p>Future Economist | Student</p>
     </header>
 
     <main>
         <section class="about">
             <h2>About Me</h2>
-            <p>Hi there! I'm Ananya, a passionate beginner in the world of web development. I'm excited to learn HTML, CSS, and JavaScript to build beautiful and functional websites. This portfolio is a starting point for me to showcase my progress and future projects.</p>
+            <p>Hi there! I'm Ananya, a passionate beginner in the world of web development. I'm excited to learn HTML, CSS, and python to build beautiful and functional websites. This portfolio is a starting point for me to showcase my progress and future projects.</p>
         </section>
 
         <section class="projects">
@@ -44,7 +44,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Ananya Sharma. All rights reserved.</p>
+        <p>&copy; 2025 Ananya Kulshrestha. All rights reserved.</p>
     </footer>
 </body>
 </html>
